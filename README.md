@@ -8,9 +8,9 @@ I hope you like my repositories and my projects!
 
 ## My GitHub Stats
 
-  ![Meus status](https://github-readme-stats.vercel.app/api?username=vinico-o&theme=transparent&show_icons=true)
-  ![Linguagens que eu uso](https://github-readme-stats.vercel.app/api/top-langs/?username=vinico-o&theme=transparent&layout=compact)
+![Meus status](https://github-readme-stats.vercel.app/api?username=vinico-o&theme=transparent&show_icons=true)
+![Linguagens que eu uso](https://github-readme-stats.vercel.app/api/top-langs/?username=vinico-o&theme=transparent&layout=compact)
 
 ## Top Repositories
 
-  ![Repositorio](https://github-readme-stats.vercel.app/api/pin/?username=vinico-o&repo=UNESP&theme=transparent)
+[![Repositorio](https://github-readme-stats.vercel.app/api/pin/?username=vinico-o&repo=UNESP&theme=transparent)](https://github.com/vinico-o/UNESP)
