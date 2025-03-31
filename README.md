@@ -13,4 +13,4 @@ I hope you like my repositories and my projects!
 
 ## Top Repositories
 
-[![Repositorio](https://github-readme-stats.vercel.app/api/pin/?username=vinico-o&repo=ATP-I&theme=transparent)](https://github.com/vinico-o/UNESP)
+[![Repositorio](https://github-readme-stats.vercel.app/api/pin/?username=vinico-o&repo=ED-I&theme=transparent)](https://github.com/vinico-o/UNESP)
