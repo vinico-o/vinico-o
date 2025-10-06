@@ -10,7 +10,3 @@ I hope you like my repositories and my projects!
 
 ![Meus status](https://github-readme-stats.vercel.app/api?username=vinico-o&theme=transparent&show_icons=true)
 ![Linguagens que eu uso](https://github-readme-stats.vercel.app/api/top-langs/?username=vinico-o&theme=transparent&layout=compact)
-
-## Top Repositories
-
-[![Repositorio](https://github-readme-stats.vercel.app/api/pin/?username=vinico-o&repo=ED-I&theme=transparent)](https://github.com/vinico-o/ED-I)
